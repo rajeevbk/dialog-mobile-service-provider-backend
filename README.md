@@ -1,2 +1,2 @@
 # service-provider-suite
-Top level project for sharing dependencies for a set of mobile service providers. 
+Top level project for sharing dependencies for a set of mobile service provider web services. 
