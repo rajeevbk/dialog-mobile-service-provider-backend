@@ -1,2 +1,2 @@
 # service-provider-suite
-Top level project for sharing dependencies for a set of mobile service provider web services. 
+A sample implementation of a mobile SP which the end user can use to view the current bill and make payment towards it
